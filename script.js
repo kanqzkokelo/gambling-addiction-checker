@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let mines = new Set();
     let isGameOver = false;
     let betAmount = 0;
-    let credits = 100; // Starting credits
+    let credits = 100000; // Starting credits
     let initialBetAmount = 0;
     let safeSquaresClicked = 0;
 
